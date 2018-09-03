@@ -24,7 +24,6 @@ public class Lambdas {
 
  double divisionResult= executeOperation(3, 15, division);
  System.out.println("Wynik operacji (a,b)-> a/b: "+ divisionResult);
-
     }
     //przyjmuje 2 liczby i operacje w formie interfejsu;
     //przyjmuje jako argument interfajs funkcyjny
